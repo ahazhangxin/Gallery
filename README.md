@@ -70,3 +70,5 @@ int main() {
 - [ ] 防盗链
 - [x] 引用计数方式保存多个相同的图片
   + 使用 MD5 作为存储名，同时在数据库中加入 引用计数 列
+
+博客测试链接 https://blog.csdn.net/Luckyboom_/article/details/100153405
